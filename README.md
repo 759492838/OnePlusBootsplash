@@ -6,6 +6,8 @@ LIYU contains some information about the original author
 module.prop is the information displayed after the module is flashed
 post-fs-data.sh and zip must not be changed, these two are to write the boot second screen animation in the part0 file to the configuration file
 Create a folder and name it part0 Here you can add the startup animation you want. Of course, the startup animation is in image format. You can refer to the one I made: https://www.123865.com/s/FBIZVv-pjMGd
+
+
  #一加开机第二屏修改
 customize.sh 包含脚本，不建议在这里修改，但你也必须仔细查看它是否包含格机代码
 LIYU 包含一些关于原作者的信息
