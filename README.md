@@ -1,6 +1,8 @@
 # OnePlusBootsplash
 OnePlus Boot Splash Modification Tutorial
- #一加开机第二屏修改
+
+
+
 customize.sh contains scripts, it is not recommended to modify here, but you also have to carefully see if it contains grid code
 LIYU contains some information about the original author
 module.prop is the information displayed after the module is flashed
@@ -9,6 +11,9 @@ Create a folder and name it part0 Here you can add the startup animation you wan
 
 
  #一加开机第二屏修改
+
+
+ 
 customize.sh 包含脚本，不建议在这里修改，但你也必须仔细查看它是否包含格机代码
 LIYU 包含一些关于原作者的信息
 module.prop 是模块刷入后显示的信息
